@@ -5,17 +5,17 @@ avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Example Organization
-  url: https://example.com/
+  url: https://medprimetech.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:reachus@medprimetech.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://medprimetech.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://medprimetech.com/
 ---
 
 ## Self Introduction
