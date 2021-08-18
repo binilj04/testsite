@@ -4,17 +4,17 @@ role: Example Role
 bio: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.
 organization:
   name: Example Organization
-  url: https://example.com/
+  url: https://medprimetech.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:contact@medprimetech.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://medprimetech.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://medprimetech.com/
 ---
 
 ## Vestibulum vel arcu
